@@ -43,4 +43,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4a16db290496ee399e53d4d2b290be282f778231
